@@ -2,7 +2,7 @@ Console JSON formatter with query feature.
 
 Install:
 
-```$ go get github.com/miolini/jsonf```
+```$ go get github.com/wintermin/jsonf```
 
 Usage:
 
@@ -39,7 +39,7 @@ $ echo '{"uid":1,"email":"user@gmail.com","address":{"city":"New-York","country"
 ```go
 import (
   ...
-  "github.com/miolini/jsonf/jsonflib"
+  "github.com/wintermin/jsonf/jsonflib"
   ...
 )
 ...

@@ -3,7 +3,7 @@ package jsonflib_test
 import (
 	"testing"
 
-	"github.com/miolini/jsonf/jsonflib"
+	"github.com/wintermin/jsonf/jsonflib"
 	"github.com/stretchr/testify/assert"
 )
 

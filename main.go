@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/miolini/jsonf/jsonflib"
+	"github.com/wintermin/jsonf/jsonflib"
 	"os"
 	"log"
 )
